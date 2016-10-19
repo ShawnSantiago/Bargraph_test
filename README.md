@@ -1,0 +1,2 @@
+# Bargraph_test
+Coding Exercise  Create a javascript function that draws a bar chart, that accepts 2d array. No JQuery, no 3rd party libraries.      function drawChart(inputArray) { … }  The function must append new graph to the body, whenever it’s called.  Input is 2d array, looks like this :   [  ['Apple', 'Orange', 'Banana' ] , [ 4, 9, 12] ] First row is labels, second row is values. Number of items can vary.  Also, the labels and bars must be styled by CSS.
